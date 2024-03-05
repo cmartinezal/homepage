@@ -1,6 +1,9 @@
 # homepage
 Webpage built using HTML, CSS, and JavaScript. CS50 Problem Set 8.
 
+<img width="1266" alt="Screenshot 2024-03-05 at 15 50 50" src="https://github.com/cmartinezal/homepage/assets/84383847/efc55fd3-25fc-42db-a5f3-556dc94e22b8">
+
+
 
 ## Background
 
@@ -34,3 +37,7 @@ to link your own CSS.
 - Have at least one stylesheet file of your own creation, `styles.css`, which uses at least five (5) different CSS selectors (e.g. tag (`example`), class (`.example`), or ID (`#example`)), and within which you use a total of at least five (5) different CSS properties, such as `font-size`, or `margin`; and
 - Integrate one or more features of JavaScript into your site to make your site more interactive. For example, you can use JavaScript to add alerts, to have an effect at a recurring interval, or to add interactivity to buttons, dropdowns, or forms. Feel free to be creative!
 Ensure that your site looks nice on browsers both on mobile devices as well as laptops and desktops.
+
+
+<img width="1290" alt="Screenshot 2024-03-05 at 15 52 05" src="https://github.com/cmartinezal/homepage/assets/84383847/8ca36daa-8b00-48ae-984e-076a9e7ae4ef">
+
